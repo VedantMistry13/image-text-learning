@@ -1,0 +1,11 @@
+flickr30k-images
+flickr30k-images.tar.gz
+test.py
+.vscode
+glove.6B.100d.txt
+trial/image-text-learning.ipynb
+reference_paper.pdf
+inception_v3_output.pickle
+kaggle.json
+latex.txt
+image_text_learning_one_hot.pdf
